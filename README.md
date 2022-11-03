@@ -1,3 +1,6 @@
+# DEPRECATION WARNING
+This Ansible role is deprecated in favor of collection [`almaops.monitoring`](https://github.com/almaops/ansible-collection-monitoring/tree/main/roles/ct_grafana) which is advised to be used instead.
+
 # Checklist for repo created from template
 * Change ROLENAME across all text files in your repository
 * Change AUTHORNAME to your "Firstname Lastname" in meta
